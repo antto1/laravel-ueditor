@@ -13,7 +13,7 @@ $ composer require "antto1/laravel-ueditor:~2.0"
 1. 发布配置文件与资源
 
     ```php
-    $ php artisan vendor:publish --provider='Codingyu\LaravelUEditor\UEditorServiceProvider'
+    $ php artisan vendor:publish --provider='Codingyu\LaravelUEditor\UEditorServiceProvider' --force
     ```
 
 2. 模板引入编辑器
