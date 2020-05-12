@@ -5,7 +5,7 @@ UEditor integration for Laravel 5.
 ## 安装
 
 ```shell
-$ composer require "codingyu/laravel-ueditor:~2.0"
+$ composer require "antto1/laravel-ueditor:~2.0"
 ```
 
 ## 配置
